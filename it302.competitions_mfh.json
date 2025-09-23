@@ -1,0 +1,384 @@
+[{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e40"
+  },
+  "id": 2176,
+  "name": "Africa Cup",
+  "code": "AC",
+  "type": "CUP",
+  "areaName": "Africa",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/ac.png",
+  "currentSeasonStart": "2025-12-21",
+  "currentSeasonEnd": "2026-01-18",
+  "currentMatchday": 1,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e41"
+  },
+  "id": 2166,
+  "name": "AFC Champions League",
+  "code": "ACL",
+  "type": "CUP",
+  "areaName": "Africa",
+  "plan": "TIER_FOUR",
+  "image": null,
+  "currentSeasonStart": "2022-04-06",
+  "currentSeasonEnd": "2023-05-05",
+  "currentMatchday": null,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e42"
+  },
+  "id": 2006,
+  "name": "WC Qualification CAF",
+  "code": "QCAF",
+  "type": "CUP",
+  "areaName": "Africa",
+  "plan": "TIER_FOUR",
+  "image": null,
+  "currentSeasonStart": "2023-11-15",
+  "currentSeasonEnd": "2025-10-13",
+  "currentMatchday": 9,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e43"
+  },
+  "id": 2023,
+  "name": "Primera B Nacional",
+  "code": "PBN",
+  "type": "LEAGUE",
+  "areaName": "Argentina",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/ar.svg",
+  "currentSeasonStart": "2021-03-13",
+  "currentSeasonEnd": "2021-12-26",
+  "currentMatchday": 17,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e44"
+  },
+  "id": 2024,
+  "name": "Liga Profesional",
+  "code": "ASL",
+  "type": "LEAGUE",
+  "areaName": "Argentina",
+  "plan": "TIER_TWO",
+  "image": "https://crests.football-data.org/LPDF.svg",
+  "currentSeasonStart": "2025-07-13",
+  "currentSeasonEnd": "2025-11-16",
+  "currentMatchday": 9,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e45"
+  },
+  "id": 2149,
+  "name": "Copa Liga Profesional",
+  "code": "CDLP",
+  "type": "LEAGUE",
+  "areaName": "Argentina",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/ar.svg",
+  "currentSeasonStart": "2021-02-12",
+  "currentSeasonEnd": "2021-05-30",
+  "currentMatchday": 13,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e46"
+  },
+  "id": 2025,
+  "name": "Supercopa Argentina",
+  "code": "SCA",
+  "type": "SUPER_CUP",
+  "areaName": "Argentina",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/ar.svg",
+  "currentSeasonStart": "2019-04-04",
+  "currentSeasonEnd": "2019-04-04",
+  "currentMatchday": null,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e47"
+  },
+  "id": 2147,
+  "name": "WC Qualification AFC",
+  "code": "QAFC",
+  "type": "CUP",
+  "areaName": "Asia",
+  "plan": "TIER_FOUR",
+  "image": null,
+  "currentSeasonStart": "2023-10-12",
+  "currentSeasonEnd": "2024-06-11",
+  "currentMatchday": 6,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e48"
+  },
+  "id": 2008,
+  "name": "A League",
+  "code": "AAL",
+  "type": "LEAGUE",
+  "areaName": "Australia",
+  "plan": "TIER_TWO",
+  "image": "https://crests.football-data.org/a-league.png",
+  "currentSeasonStart": "2025-10-01",
+  "currentSeasonEnd": "2026-06-01",
+  "currentMatchday": 1,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e49"
+  },
+  "id": 2026,
+  "name": "FFA Cup",
+  "code": "FFAC",
+  "type": "CUP",
+  "areaName": "Australia",
+  "plan": "TIER_FOUR",
+  "image": null,
+  "currentSeasonStart": "2020-02-19",
+  "currentSeasonEnd": "2020-10-28",
+  "currentMatchday": null,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e4a"
+  },
+  "id": 2020,
+  "name": "Erste Liga",
+  "code": "AEL",
+  "type": "LEAGUE",
+  "areaName": "Austria",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/816.svg",
+  "currentSeasonStart": "2025-08-01",
+  "currentSeasonEnd": "2026-06-24",
+  "currentMatchday": 7,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e4b"
+  },
+  "id": 2012,
+  "name": "Bundesliga",
+  "code": "ABL",
+  "type": "LEAGUE",
+  "areaName": "Austria",
+  "plan": "TIER_THREE",
+  "image": "https://crests.football-data.org/abl.png",
+  "currentSeasonStart": "2025-08-01",
+  "currentSeasonEnd": "2026-03-07",
+  "currentMatchday": 7,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e4c"
+  },
+  "id": 2022,
+  "name": "Playoffs 1/2",
+  "code": "APL",
+  "type": "PLAYOFFS",
+  "areaName": "Austria",
+  "plan": "TIER_TWO",
+  "image": "https://crests.football-data.org/816.svg",
+  "currentSeasonStart": "2018-05-31",
+  "currentSeasonEnd": "2018-06-03",
+  "currentMatchday": null,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e4d"
+  },
+  "id": 2027,
+  "name": "ÖFB Cup",
+  "code": null,
+  "type": "CUP",
+  "areaName": "Austria",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/816.svg",
+  "currentSeasonStart": "2020-08-28",
+  "currentSeasonEnd": "2021-05-01",
+  "currentMatchday": null,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e4e"
+  },
+  "id": 2028,
+  "name": "Coupe de Belgique",
+  "code": "CB",
+  "type": "CUP",
+  "areaName": "Belgium",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/805.svg",
+  "currentSeasonStart": "2025-09-05",
+  "currentSeasonEnd": "2026-05-30",
+  "currentMatchday": null,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e4f"
+  },
+  "id": 2033,
+  "name": "Division 1B",
+  "code": null,
+  "type": "LEAGUE",
+  "areaName": "Belgium",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/805.svg",
+  "currentSeasonStart": "2020-08-21",
+  "currentSeasonEnd": "2021-05-31",
+  "currentMatchday": 28,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e50"
+  },
+  "id": 2009,
+  "name": "Jupiler Pro League",
+  "code": "BJL",
+  "type": "LEAGUE",
+  "areaName": "Belgium",
+  "plan": "TIER_TWO",
+  "image": "https://crests.football-data.org/bjl.png",
+  "currentSeasonStart": "2025-07-25",
+  "currentSeasonEnd": "2026-03-21",
+  "currentMatchday": 8,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e51"
+  },
+  "id": 2032,
+  "name": "Playoffs",
+  "code": "BJPP",
+  "type": "PLAYOFFS",
+  "areaName": "Belgium",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/805.svg",
+  "currentSeasonStart": "2024-03-29",
+  "currentSeasonEnd": "2024-05-25",
+  "currentMatchday": 10,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e52"
+  },
+  "id": 2010,
+  "name": "Supercoupe de Belgique",
+  "code": "SDB",
+  "type": "SUPER_CUP",
+  "areaName": "Belgium",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/805.svg",
+  "currentSeasonStart": "2025-07-20",
+  "currentSeasonEnd": "2025-07-20",
+  "currentMatchday": 0,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e53"
+  },
+  "id": 2034,
+  "name": "LFPB",
+  "code": null,
+  "type": "LEAGUE",
+  "areaName": "Bolivia",
+  "plan": "TIER_FOUR",
+  "image": null,
+  "currentSeasonStart": "2021-03-09",
+  "currentSeasonEnd": "2022-01-01",
+  "currentMatchday": 30,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e54"
+  },
+  "id": 2035,
+  "name": "Premier Liga",
+  "code": null,
+  "type": "LEAGUE",
+  "areaName": "Bosnia and Herzegovina",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/bosnia.svg",
+  "currentSeasonStart": "2020-08-01",
+  "currentSeasonEnd": "2021-05-30",
+  "currentMatchday": 30,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e55"
+  },
+  "id": 2037,
+  "name": "Copa do Brasil",
+  "code": "CDB",
+  "type": "CUP",
+  "areaName": "Brazil",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/764.svg",
+  "currentSeasonStart": "2025-02-18",
+  "currentSeasonEnd": "2025-11-28",
+  "currentMatchday": 2,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e56"
+  },
+  "id": 2038,
+  "name": "Série D",
+  "code": null,
+  "type": "LEAGUE",
+  "areaName": "Brazil",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/764.svg",
+  "currentSeasonStart": "2020-05-17",
+  "currentSeasonEnd": "2020-11-22",
+  "currentMatchday": 13,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+},
+{
+  "_id": {
+    "$oid": "68d1f0f00824db98f8463e57"
+  },
+  "id": 2036,
+  "name": "Série C",
+  "code": null,
+  "type": "LEAGUE",
+  "areaName": "Brazil",
+  "plan": "TIER_FOUR",
+  "image": "https://crests.football-data.org/764.svg",
+  "currentSeasonStart": "2020-05-02",
+  "currentSeasonEnd": "2020-10-31",
+  "currentMatchday": 13,
+  "lastUpdated": "2025-09-23T00:58:31Z"
+}]
